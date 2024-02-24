@@ -11,16 +11,16 @@ Technologies Used:
 : Flutter for cross-platform mobile app development
 : Provider package for state management
 : OpenWeatherMap API for weather data
-![Screenshot_1708746364](https://github.com/RitikSharma02/SkySight/assets/68990636/294c01ed-5b6a-49ed-99c3-1da3974805d1)
-
 Screenshots: 
 
-[HomePage](https://github.com/RitikSharma02/SkySight/assets/68990636/8eb8f4ea-7e12-4af6-82fc-4284980ee32b)
-[Drawer](https://github.com/RitikSharma02/SkySight/assets/68990636/1a8db022-da9e-4d33-96bc-26f3edd6d994)
-[Settings page](https://github.com/RitikSharma02/SkySight/assets/68990636/3134f98d-7e9c-42ef-ae9f-4c5e68b185d2)
-[Dark Mode](https://github.com/RitikSharma02/SkySight/assets/68990636/2e552f85-aafe-455d-a772-15f276e7e062)
-[Drawer in Dark mode](https://github.com/RitikSharma02/SkySight/assets/68990636/6403ea21-b8d4-4295-9c2d-2e0e6ec94d9d)
-[HomePage in Dark mode](https://github.com/RitikSharma02/SkySight/assets/68990636/b8d9fa27-3312-4d53-a2a2-bdc438ee8fa5)
+![Screenshot_1708746361](https://github.com/RitikSharma02/SkySight/assets/68990636/2059b541-4afa-4dff-b823-99af4e91a385)
+![Screenshot_1708746364](https://github.com/RitikSharma02/SkySight/assets/68990636/7122d16e-00f1-492e-83f5-5f33879a26ab)
+![Screenshot_1708746358](https://github.com/RitikSharma02/SkySight/assets/68990636/2d16c82a-3cb6-487c-b2fc-6464ed9966f8)
+![Screenshot_1708748069](https://github.com/RitikSharma02/SkySight/assets/68990636/0ca4b864-ffec-48e8-a09c-6718c8dbe904)
+![Screenshot_1708746355](https://github.com/RitikSharma02/SkySight/assets/68990636/5f552950-0c72-4de3-828d-b45dcdcf73f4)
+![Screenshot_1708746348](https://github.com/RitikSharma02/SkySight/assets/68990636/570ed1be-8f08-43c5-a02c-dc201f4d02a1)
+
+
 
 Contributing:
 Contributions are welcome! If you'd like to contribute to this project, fork the repository.
