@@ -11,8 +11,10 @@ Technologies Used:
 : Flutter for cross-platform mobile app development
 : Provider package for state management
 : OpenWeatherMap API for weather data
+![Screenshot_1708746364](https://github.com/RitikSharma02/SkySight/assets/68990636/294c01ed-5b6a-49ed-99c3-1da3974805d1)
 
 Screenshots: 
+
 [HomePage](https://github.com/RitikSharma02/SkySight/assets/68990636/8eb8f4ea-7e12-4af6-82fc-4284980ee32b)
 [Drawer](https://github.com/RitikSharma02/SkySight/assets/68990636/1a8db022-da9e-4d33-96bc-26f3edd6d994)
 [Settings page](https://github.com/RitikSharma02/SkySight/assets/68990636/3134f98d-7e9c-42ef-ae9f-4c5e68b185d2)
