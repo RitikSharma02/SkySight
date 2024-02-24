@@ -29,6 +29,6 @@ Screenshots:
 
 
 Contributing:
-Contributions are welcome! If you'd like to contribute to this project, fork the repository :) .
+Contributions are welcome! If you'd like to contribute to this project, fork the repository :) 
  
 
