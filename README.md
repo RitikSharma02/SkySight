@@ -19,7 +19,8 @@ Screenshots:
 ![Screenshot_170874655![Screenshot_1708746348](https://github.com/RitikSharma02/SkySight/assets/68990636/f6873e31-65e3-4b1a-a782-589af5106b33)
 2](h![Screenshot_1708746550](https://github.com/RitikSharma02/SkySight/assets/68990636/bae37f93-3da2-4b04-baae-6d42715c2c05)
 ttps://github.com/Ri![Screenshot_1708746547](https://github.com/RitikSharma02/SkySight/assets/68990636/720e179c-8cee-4c00-bc6e-07ce29a84a22)
-tikSharma02/SkySight/assets/68990636/f1ddba2f-2b2e-4bc3-90fb-1f7095e15fee)
+
+![Screenshot_1708746348](https://github.com/RitikSharma02/SkySight/assets/68990636/41801d1d-dbd5-4f98-8cd7-ad248f211605)
 
 
 Contributing:
