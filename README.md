@@ -1,17 +1,16 @@
-# SkySight
+# SkySight 🌞
 
 A minimalist weather app built with Flutter that provides current weather information for any location. The app displays the current temperature in Celsius, along with the city name and a brief description of the weather conditions. Additionally, it includes a daily summary of sunrise and sunset times, wind speed, humidity, and visibility.
 
 Features:
-: Display current temperature, city name, and weather description
-: Daily summary including sunrise, sunset, wind speed, humidity, and visibility
-: Search functionality to retrieve weather data for any location
+1. Display current temperature, city name, and weather description
+2. Daily summary including sunrise, sunset, wind speed, humidity, and visibility
+3. Search functionality to retrieve weather data for any location
 
 Technologies Used:
-: Flutter for cross-platform mobile app development
-: Provider package for state management
-: OpenWeatherMap API for weather data
-
+1. Flutter for cross-platform mobile app development
+2. Provider package for state management
+3. OpenWeatherMap API for weather data
 
 Screenshots: 
 
@@ -28,12 +27,8 @@ Screenshots:
 ![Screenshot_1708746348](https://github.com/RitikSharma02/SkySight/assets/68990636/570ed1be-8f08-43c5-a02c-dc201f4d02a1)
 
 
-Contributing:
-Contributions are welcome! If you'd like to contribute to this project, please fork the repository and submit a pull request.
-
-
 
 Contributing:
-Contributions are welcome! If you'd like to contribute to this project, fork the repository.
+Contributions are welcome! If you'd like to contribute to this project, fork the repository. :)
  
 
